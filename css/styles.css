@@ -1,0 +1,33 @@
+.container{
+font-size: 2.5rem;
+}
+
+body{
+  text-align: center;
+background-color: #dbe9b7;
+}
+
+.imgdiv{
+  display: inline-block;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+h1{
+  font-family: 'Pacifico', cursive;
+  margin: 20px;
+   color: #8f1537;
+  text-shadow: 5px 0 black;
+}
+p{
+  font-family: 'Architects Daughter', cursive;
+  text-shadow: 2px 0 black;
+}
+img{
+  width:80%;
+}
+footer{
+
+  margin: 60px;
+  text-shadow: 0.5px 0 black;
+}
